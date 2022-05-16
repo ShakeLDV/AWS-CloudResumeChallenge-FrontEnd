@@ -910,7 +910,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	display: inline-block;
 	margin: 0 1.5rem 3rem 0;
 	padding: 0 1.5rem 0 0;
-	border-right: 1px solid #ccc;
+	border-right: 1px solid rgb(255, 255, 255);
 }
 .stats-tabs li:last-child {
 	margin: 0;
@@ -922,7 +922,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	font-size: 2.5rem;
 	font-family: "poppins-bold", sans-serif;
 	border: none;
-	color: #252525;
+	color: #fdfdfd;
 }
 .stats-tabs li a:hover {
 	color: #0026ff;
@@ -932,7 +932,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin: .6rem 0 0 0;
 	font-size: 1.4rem;
 	font-family: "poppins-regular", sans-serif;
-	color: #888888;
+	color: #f8f8f8;
 }
 
 /**
